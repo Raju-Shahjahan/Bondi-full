@@ -1,0 +1,268 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 374.98px) {
+    /* header start */
+    .menu ul li a {
+        text-align: center;
+    }
+    /* header end */
+
+    /* banner start */
+    .banner_text {
+        margin: 65px 0;
+    }
+    .banner_text h1 {
+        font-size: 34px;
+    }
+    .c_btn {
+        padding: 5px 24px;
+        font-size: 14px;
+    }
+    /* banner end */
+
+    /* service start */
+    .service {
+        padding: 40px 0;
+    }
+    .c_h1 {
+        font-size: 32px;
+    }
+    .c_p {
+        font-size: 14px;
+    }
+    .s_text p {
+        padding: 0 0px;
+    }
+    .s_text {
+        top: 0px;
+    }
+    /* service end */
+
+    /* about start */
+    .ab_text {
+        margin-bottom: 50px;
+        text-align: center;
+    }
+    .ab_para {
+        margin-bottom: 30px;
+    }
+    .c_h1 {
+        font-size: 25px;
+        margin-top: 25px;
+    }
+    /* about end */
+
+    /* team start */
+    .team {
+        padding: 40px 0;
+    }
+    .c_h1 {
+        font-size: 30px;
+        margin-top: 25px;
+    }
+    /* team end */
+
+    /* client start */
+    .client {
+        padding-top: 0px;
+    }
+    .client_img {
+        margin-top: 90px;
+    }
+    /* client end */
+
+    /* newsletter start */
+    .n_txt p {
+        text-align: center;
+    }
+    /* newsletter end */
+
+    /* footer start */
+    footer {
+        padding: 40px 0;
+    }
+    .c_line {
+        width: 100px;
+    }
+    .c1 {
+        text-align: center;
+    }
+    .c2 {
+        text-align: center;
+        margin: 25px 0;
+    }
+    .c2 ul li {
+        margin-bottom: 4px;
+    }
+    .c4 {
+        text-align: center;
+    }
+    .c4 p {
+        margin-top: 15px;
+    }
+
+    .f_social ul li a {
+        font-size: 25px;
+        margin-right: 20px;
+    }
+    .f_btn {
+        margin: 20px 0;
+    }
+    /* footer end */
+
+}
+
+
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* header start */
+    .menu ul li a {
+        text-align: center;
+    }
+    /* header end */
+
+    /* banner start */
+    .banner_text {
+        margin: 120px 0;
+    }
+    /* banner end */
+
+    /* about start */
+    .ab_text {
+        margin-bottom: 50px;
+        text-align: center;
+    }
+    /* about end */
+
+    /* client start */
+    .client {
+        padding-top: 0px;
+    }
+    .client_img {
+        margin-top: 90px;
+    }
+    /* client end */
+
+    /* newsletter start */
+    .n_txt p {
+        text-align: center;
+    }
+    /* newsletter end */
+
+    /* footer start */
+    footer {
+        padding: 60px 0;
+    }
+    .c1 {
+        text-align: center;
+    }
+    .c2 {
+        text-align: center;
+        margin: 50px;
+    }
+    .c4 {
+        text-align: center;
+    }
+    /* footer end */
+
+
+}
+
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* header start */
+    .menu ul li a {
+        text-align: center;
+    }
+    /* header end */
+
+    /* banner start */
+    .banner_text {
+        margin: 120px 0;
+    }
+    /* banner end */
+
+    /* about start */
+    .ab_text {
+        margin-bottom: 50px;
+        text-align: center;
+    }
+    /* about end */
+
+    /* client start */
+    .client {
+        padding-top: 0px;
+    }
+    .client_img {
+        margin-top: 90px;
+    }
+    /* client end */
+
+    /* newsletter start */
+    .n_txt p {
+        text-align: center;
+    }
+    /* newsletter end */
+
+    /* footer start */
+    footer {
+        padding: 80px 0;
+    }
+    .c1 {
+        text-align: center;
+    }
+    .c2 {
+        text-align: center;
+        margin: 60px 0;
+    }
+    .c4 {
+        text-align: center;
+    }
+    /* footer end */
+
+
+}
+
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* header start */
+    .menu ul li a {
+        margin: 0 7px;
+    }
+    /* header end */
+
+    /* service start */
+    .s_text p {
+        padding: 0px 0px;
+    }
+        
+    /* service end */
+
+    /* about start */
+    .ab_text {
+        margin-top: 0px;
+    }
+    /* about end */
+
+
+}
+
+
+ /*Extra Large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+   
+
+
+}
+
+
+
+
+ /* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+    
+
+
+}
